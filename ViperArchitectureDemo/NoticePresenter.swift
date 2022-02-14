@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-
+// Modified the presenter
 class NoticePresenter: ViewToPresenterProtocol {
     var view: PresenterToViewProtocol?
     
